@@ -22,7 +22,7 @@ GPU/CPU compatible
 Google Colab compatible
 
 
-##Included Tasks
+## Included Tasks
 
 | Task                  | Classes                       |
 | --------------------- | ----------------------------- |
@@ -31,11 +31,20 @@ Google Colab compatible
 | Sarcasm Detection     | Literal / Sarcastic           |
 
 
-##Requirements
+## Requirements
 
 For Installing Depencdencies
 run-
 pip install -r requirements.txt
 
 
-##Dataset
+## Datasets
+
+Datasets are in the folder "Data/" where all the relavant data is stored.
+
+
+## Running the Project
+
+1. Upload the notebook to Google Colab
+2. Upload datasets into the data/ folder
+3. Run all notebook cells sequentially
