@@ -7,7 +7,7 @@ Hate Speech Detection
 Sarcasm Detection
 
 
-**Features**
+##Features
 
 Fine-tuning using google/muril-base-cased
 Hinglish-compatible tokenization
@@ -22,7 +22,7 @@ GPU/CPU compatible
 Google Colab compatible
 
 
-**Included Tasks**
+##Included Tasks
 
 | Task                  | Classes                       |
 | --------------------- | ----------------------------- |
@@ -31,11 +31,11 @@ Google Colab compatible
 | Sarcasm Detection     | Literal / Sarcastic           |
 
 
-**Requirements**
+##Requirements
 
 For Installing Depencdencies
 run-
 pip install -r requirements.txt
 
 
-**Dataset**
+##Dataset
