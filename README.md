@@ -62,10 +62,11 @@ As we got deeper into the implementation, we realized the new dataset we switche
 
 To make sure our results were actually reliable, we had to make some last-minute changes:
 
-We removed all the "noise" and duplicates from the hate speech and sarcasm dataset.
+We removed all the noise and duplicates from the hate speech and sarcasm dataset.
 
 The Hate Speech samples dropped by about half because of this cleanup.
+Which eventually reduced the dataset size from 9k to 4.5k in Hate speech, 9k to 7.5k in Sarcasm dataset.
 
-The "Emotion" category was removed since it wasn't available in this specific set.
+We are very sorry that we didn't explain these changes clearly during the presentation. We were so focused on trying to fix the data issues and getting the models to run that we didn't realize how much the scope had shifted until we looked at the final numbers.
 
-We feel really bad that we didn't explain these changes clearly during the presentation. We were so focused on trying to fix the data issues and getting the models to run that we didn't realize how much the scope had shifted until we looked at the final numbers.
+Please consider our request.
