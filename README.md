@@ -33,16 +33,16 @@ Google Colab compatible
 **Project Structure**
 project-root/
 │
-├── data/
-│   ├── sentiment_data.csv
-│   ├── hate_speech.csv
-│   └── sarcasm_dataset.csv
-│
-├── evaluation_reports/
-│
-├── notebook.ipynb
-├── requirements.txt
-└── README.md
+  ├── data/
+  │   ├── sentiment_data.csv
+  │   ├── hate_speech.csv
+  │   └── sarcasm_dataset.csv
+  │
+  ├── evaluation_reports/
+  │
+  ├── notebook.ipynb
+  ├── requirements.txt
+  └── README.md
 
 
 **Requirements**
