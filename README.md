@@ -7,7 +7,7 @@ Hate Speech Detection
 Sarcasm Detection
 
 
-##Features
+## Features
 
 Fine-tuning using google/muril-base-cased
 Hinglish-compatible tokenization
