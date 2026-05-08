@@ -8,6 +8,7 @@ Sarcasm Detection
 
 
 **Features**
+
 Fine-tuning using google/muril-base-cased
 Hinglish-compatible tokenization
 Separate models for each NLP task
@@ -31,6 +32,7 @@ Google Colab compatible
 
 
 **Requirements**
+
 For Installing Depencdencies
 run-
 pip install -r requirements.txt
